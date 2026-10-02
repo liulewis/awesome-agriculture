@@ -34,11 +34,12 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project 
 - [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
 - [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
-
+ 
 ## Calculators
 
 - [farm-calculators](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
-- [Chicken Egg Colour Calculator](https://eggcalculator.github.io/eggcolourcalculator) - Punnett square calculator predicting chicken egg shell colors based on parent genetics.
+  - [Chicken Egg Colour Calculator](https://eggcalculator.github.io/eggcolourcalculator) - Punnett square calculator predicting chicken egg shell colors based on parent genetics.
+  -  [Agricalc](https://agricalc.online) - Free science-based agriculture calculators for farmers and agronomists, covering the full farming cycle. Multi-language, no registration, works offline.
 
 ## Climate, Environment and Weather
 
@@ -49,8 +50,8 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [iem](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
 - [PyETo](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
 - [pyTSEB](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
-- [soilDB](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
-- [Agricalc](https://agricalc.online) - Free science-based agriculture calculators for farmers and agronomists, covering the full farming cycle. Multi-language, no registration, works offline.
+
+  - [soilDB](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.## Crop Modeling, Phenotyping, and Pathology
 
 ## Crop Modeling, Phenotyping, and Pathology
 
