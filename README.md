@@ -50,6 +50,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [PyETo](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
 - [pyTSEB](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
 - [soilDB](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
+- [Agricalc](https://agricalc.online) - Free science-based agriculture calculators for farmers and agronomists, covering the full farming cycle. Multi-language, no registration, works offline.
 
 ## Crop Modeling, Phenotyping, and Pathology
 
